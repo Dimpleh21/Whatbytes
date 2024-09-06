@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="Chart">
+  <g fill-rule="evenodd" fill="#000000" class="color000000 svgShape">
+    <path fill="#999999" d="M10 5.054v9.945h2V5.054h-2z" class="colorf05542 svgShape"></path>
+    <path fill="#a2a2a2" d="M7 8.027V15h2V8.027H7z" class="colorf17f53 svgShape"></path>
+    <path fill="#dddddd" d="M4 11.054v3.945h2v-3.945H4z" class="colorf8b84e svgShape"></path>
+    <path fill="#6c6c6c" d="M13 3.053h2V15h-2z" class="color25b39e svgShape"></path>
+  </g>
+</svg>
